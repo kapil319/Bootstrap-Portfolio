@@ -10,11 +10,11 @@ Why? Resume to showcase web developer skills and experience gained using bootstr
 
 How? By utilising knowledge gained from Bootstrap to incorporate a resume style portfolio page. 
 
-[Click link for Portfolio Page index.html](index.html)
+[Click link for Bootstrap Portfolio Page index.html](index.html)
 
 ## Deployed Webpage Link
 
-`https://kapil319.github.io/Bootstrap-Portfolio/`
+https://kapil319.github.io/Bootstrap-Portfolio/
 
 
 ## Installation
