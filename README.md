@@ -14,7 +14,7 @@ How? By utilising knowledge gained from Bootstrap to incorporate a resume style 
 
 ## Deployed Webpage Link
 
-`TBC`
+`https://kapil319.github.io/Bootstrap-Portfolio/`
 
 
 ## Installation
@@ -29,7 +29,7 @@ Open GetBootstrap webpage and use examples of starter code for jumbotron, nav, m
 
 The following image shows the Portfolio Web application's appearance and functionality:
 
-![The Bootstrap Portfolio webpage includes a navigation bar, a hero section, work cards and skills with images at the foot of the page.](IMAGE TO BE INSERTED)
+![The Bootstrap Portfolio webpage includes a navigation bar, a hero section, work cards and skills with images at the foot of the page.]
 
 ## Credits
 
